@@ -1,2 +1,5 @@
 # JAVA_ASSIGNMENT_1
-Here is the code of the First Assignment of OOP in JAVA.. 
+First Assignment of OOP in JAVA 
+ Code by : Sujal Devkota 
+ Roll number : 34 
+ 
